@@ -1,5 +1,5 @@
 # Arduino code for powering the display of a Smart Mirror
-Arduino (and Arduino NANO) code for operating the power switch of a display embedded in a Smart Mirror through two PIR modules
+Arduino NANO (and Arduino) code for operating the power switch of a display embedded in a Smart Mirror through two PIR modules
 
 - One PIR sensor is mounted on the side for power on/off control through a wave gesture
 - A secondary PIR sensor is mounted on the front for determining if there is someone in front of the mirror, so that the screen will remain on until presence is no longer detected
